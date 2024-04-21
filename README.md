@@ -1,27 +1,25 @@
 # Tetris2048
-Test
-
-# Usage Instructions
-How to Play Tetris 2048
-
-Objective:
 The objective of Tetris 2048 is to stack tetrominoes (shapes made up of four blocks) on top of each other to form complete rows. When a row is complete, it clears from the board, and you earn points. The game ends when there is no more room for new tetrominoes to enter the board.
 
-Controls:
+# Usage Instructions
+How to Play Tetris 2048:
 
-Left Arrow Key: Move the current tetromino left.
-Right Arrow Key: Move the current tetromino right.
-Down Arrow Key: Accelerate the falling speed of the current tetromino.
-Up Arrow Key: Rotate the current tetromino clockwise.
-Space Bar: Instantly drop the current tetromino to the bottom.
+-Left Arrow Key: Move the current tetromino left.
+-Right Arrow Key: Move the current tetromino right.
+-Down Arrow Key: Accelerate the falling speed of the current tetromino.
+-Up Arrow Key: Rotate the current tetromino clockwise.
+-Space Bar: Instantly drop the current tetromino to the bottom.
+
 Scoring:
 
-Clearing Rows: When you fill an entire row with blocks, it clears from the board, and you earn points based on the number of rows cleared at once.
-Merging Tiles: If two tiles with the same number touch, they merge into one tile with the sum of their numbers. For example, if two tiles with the number 2 touch, they merge into a single tile with the number 4. Each merge also earns you points.
+-Clearing Rows: When you fill an entire row with blocks, it clears from the board, and you earn points based on the number of rows cleared at once.
+-Merging Tiles: If two tiles with the same number touch, they merge into one tile with the sum of their numbers. For example, if two tiles with the number 2 touch, they merge into a single tile with the number 4. Each merge also earns you points.
+
 Winning and Losing:
 
-Winning: If you reach a tile with a value of 2048 or higher, you win the game.
-Losing: The game ends if you run out of space for new tetrominoes to enter the board.
+-Winning: If you reach a tile with a value of 2048 or higher, you win the game.
+-Losing: The game ends if you run out of space for new tetrominoes to enter the board.
+
 Difficulty Levels:
 
 Choose from Easy, Normal, or Hard difficulty levels to adjust the speed of the falling tetrominoes. You can select your preferred difficulty level from the menu before starting the game.
