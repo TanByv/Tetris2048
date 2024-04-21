@@ -4,7 +4,7 @@ The objective of Tetris 2048 is to stack tetrominoes (shapes made up of four blo
 # Usage Instructions
 How to Play Tetris 2048:
 
--Left Arrow Key: Move the current tetromino left.
+-Left Arrow Key: Move the current tetromino left.\n
 -Right Arrow Key: Move the current tetromino right.
 -Down Arrow Key: Accelerate the falling speed of the current tetromino.
 -Up Arrow Key: Rotate the current tetromino clockwise.
