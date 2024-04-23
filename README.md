@@ -39,7 +39,9 @@ Choose from Easy, Normal, or Hard difficulty levels to adjust the speed of the f
 
 # Contributors
 [Tan Bayav](https://github.com/TanByv)
+
 [Durukan Ocak](https://github.com/Drkockk)
+
 Enes Ertuğrul
 
 
