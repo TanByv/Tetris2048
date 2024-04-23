@@ -1,5 +1,5 @@
 # Tetris2048
-Tetris 2048 is a combination of the classic Tetris and the 2048 puzzle games. In the game, players try to achieve high scores by both arranging and sequentially completing Tetris-style blocks and combining numbers merging in the 2048 game.
+Tetris 2048 is a combination of the classic Tetris and the 2048 puzzle games. In the game, players try to achieve high scores by both arranging and sequentially completing Tetris-style blocks and combining number merging from the 2048 game.
 
 # Usage Instructions
 How to Play Tetris 2048:
