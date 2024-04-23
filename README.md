@@ -37,8 +37,9 @@ Choose from Easy, Normal, or Hard difficulty levels to adjust the speed of the f
 ![image](https://github.com/Drkockk/Tetris2048/assets/134732925/1b743a35-4034-4ec1-9d79-aa937610f3a2)
 ![image](https://github.com/Drkockk/Tetris2048/assets/134732925/0b97d9aa-c26d-4754-9f51-ad6bf5997afe)
 
-# Contributors & Special Thanks
-Core member - [Tan Bayav](https://github.com/TanByv)
-
+# Contributors
+[Tan Bayav](https://github.com/TanByv)
+[Durukan Ocak](https://github.com/Drkockk)
+Enes Ertuğrul
 
 
