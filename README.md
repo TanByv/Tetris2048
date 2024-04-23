@@ -1,5 +1,5 @@
 # Tetris2048
-The objective of Tetris 2048 is to stack tetrominoes (shapes made up of four blocks) on top of each other to form complete rows. When a row is complete, it clears from the board, and you earn points. The game ends when there is no more room for new tetrominoes to enter the board.
+Tetris 2048 is a combination of the classic Tetris and the 2048 puzzle games. In the game, players try to achieve high scores by both arranging and sequentially completing Tetris-style blocks and combining numbers merging in the 2048 game.
 
 # Usage Instructions
 How to Play Tetris 2048:
